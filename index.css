@@ -1,0 +1,53 @@
+body{
+    background: #f8f8f8;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.header{
+    height:50px;
+    background:#2c2c2c; 
+    width:100%;display: flex; 
+    align-items:center;
+    padding: 1rem 0 1rem 1rem
+}
+
+.carmaLogo{
+     height: 40px;
+      width: 40px;
+      fill: #ec9148;
+}
+
+.smallText{
+    font-size: 14px;
+}
+
+textarea{
+    white-space:pre; 
+    overflow-wrap: normal; 
+    overflow-x: scroll;
+}
+
+form{
+    width:600px
+}
+
+
+.bootstrap-select .dropdown-toggle .filter-option{
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.filter-option-inner-inner{
+    font-size: 14px;
+}
+
+.bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn){
+    width: 100%;
+}
+
+.btn-light{
+    background: white;
+}
