@@ -5,4 +5,5 @@
 3- Load unpacked ( select the folder you cloned )  
 4- Make sure you're logged in to Bodhi  
 
-Now you can start Uploading!
+Copy urls from excel ( each Url must be in an excel cell stacked on top of each other ) 
+fill the metadata for project, paste the urls in the extenstion textarea. 
